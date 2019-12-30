@@ -1,0 +1,16 @@
+{
+    "webcredentials":{
+        "apps":["P22TMJQ939.com.uama.guan.PasswordAutofill"]
+    }
+    {
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "D38XPC8URL.com.uama.SmartCommunity",
+                "paths":[ "/SmartCommunity/*" ]
+            }
+        ]
+    }
+}
+}
