@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "D38XPC8URL.com.uama.SmartCommunity",
+                "appID": "D38XPC8URL.org.cocoapods.demo.SCShareLib-Example",
                 "paths":[ "/static/*" ]
             }
         ]
