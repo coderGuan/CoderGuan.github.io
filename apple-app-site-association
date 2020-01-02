@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "D38XPC8URL.com.uama.Butler",
-                "paths": [ "*", "/static/*"]
+                "paths": ["/static/*"]
             }
         ]
     }
